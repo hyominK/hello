@@ -207,6 +207,6 @@ int main() {
    ms.print_pair();
 
    cout << ms.min_abs() << endl;
-
+   cout << endl;
 }
-// i don't know what to do nextㅜㅜ
+// i don't know what do next
